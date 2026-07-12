@@ -1,7 +1,7 @@
 readme_content = """
 # Hi there, I'm Prasad Surabathuni 👋
 
-**Data Analyst**  
+**Business Analyst**  
 📧 prasad.s@myemailjob.com  
 📞 (224) 386-4176  
 📍 Schaumburg, IL
@@ -10,7 +10,7 @@ readme_content = """
 
 ## 🧑‍💼 About Me
 
-I'm a passionate Data Analyst with over 4 years of industry experience, specializing in Business Intelligence, Data Warehousing, and Data Visualization. My expertise includes leveraging cloud platforms like AWS and Google Cloud, and proficient use of data analysis tools such as SQL, Python, and R.
+I'm a passionate Business Analyst with over 6 years of industry experience, specializing in Business Intelligence, Data Warehousing, and Data Visualization. My expertise includes leveraging cloud platforms like AWS and Google Cloud, and proficient use of data analysis tools such as SQL, Python, and R.
 
 ---
 
@@ -42,8 +42,8 @@ I'm a passionate Data Analyst with over 4 years of industry experience, speciali
 
 ## 💼 Work Experience
 
-### Intuit, USA | Data Analyst
-*Aug 2023 - Current*
+### SEI, USA | Business Analyst
+*Jul 2025 - Current*
 
 - Practicing full-facing Agile methodology with Sprint Meetings, Sprint Planning, sprint reviews, and retrospectives.
 - Utilized Python and SQL to perform data analysis and generate actionable insights from large datasets.
@@ -53,8 +53,19 @@ I'm a passionate Data Analyst with over 4 years of industry experience, speciali
 - Optimized query performance and data storage using Snowflake's architecture, including micro-partitions and result caching.
 - Monitored data quality metrics, maintaining data integrity levels above 95%.
 
-### Hexaware Technologies, India | Data Analyst
-*April 2019 - June 2022*
+### Bank of America, USA | Business Analyst
+*May 2023 - June 2025*
+
+- Leveraged Waterfall methodology for structured data analysis projects.
+- Performed exploratory data analysis (EDA) using ggplot2 in R to uncover insights.
+- Created data visualizations and dashboards using Power BI and Google Data Studio.
+- Configured AWS Data Pipeline to load data from S3 to Redshift.
+- Conducted data cleansing, transformation, and validation to ensure data integrity.
+- Maintained and optimized databases, and wrote SQL queries for ETL processes.
+- Conducted predictive modeling and statistical analysis to forecast future trends.
+
+### PNC, USA | Business/Data Analyst
+*April 2020 - May 2023*
 
 - Leveraged Waterfall methodology for structured data analysis projects.
 - Performed exploratory data analysis (EDA) using ggplot2 in R to uncover insights.
@@ -77,6 +88,7 @@ I'm a passionate Data Analyst with over 4 years of industry experience, speciali
 
 - **Python for Programmers** | LinkedIn Learning
 - **Introduction to Artificial Intelligence** | LinkedIn Learning
+- **Microsoft Power BI Certification** | Microsoft
 
 ---
 
