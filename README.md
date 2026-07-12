@@ -2,7 +2,7 @@ readme_content = """
 # Hi there, I'm Prasad Surabathuni 👋
 
 **Business Analyst**  
-📧 prasad.s@myemailjob.com  
+📧 prasad.bianalyst@gmail.com  
 📞 (224) 386-4176  
 📍 Schaumburg, IL
 
